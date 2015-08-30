@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BasicCalculator</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="number1">Number 1:</string>
+    <string name="number2">Number 2:</string>
+    <string name="btnSumar">+</string>
+    <string name="btnRestar">-</string>
+    <string name="btnMultiplicar">*</string>
+    <string name="btnDividir">/</string>
+</resources>
